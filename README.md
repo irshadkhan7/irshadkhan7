@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [React Js. Project](https://expenses-trackerik.netlify.app/)
+- 🔭 I have Completed  [React Js. Project](https://expenses-trackerik.netlify.app/)
 
 - 👯 I’m looking to collaborate on [HTML CSS JS. Ecommerce Website](https://jarvisik2.netlify.app/)
 
