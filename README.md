@@ -7,13 +7,13 @@
 
 - 🔭 This is my Portfolio  [React Js.(https://portfolioirshadik.netlify.app/)
 
-- 👯 I’m looking to collaborate on [HTML CSS JS. Ecommerce Website]
+- 👯 I'm looking to job opportunity on Front End [HTML CSS JS. React js]
 
 - 💬 Ask me about **HTML, CSS, JAVASCRIPT, React Js.**
 
 - 📫 How to reach me **irshadaliik2@gmail.com**
 
-- ⚡ Fun fact **I**
+- ⚡ Fun fact ** null **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
